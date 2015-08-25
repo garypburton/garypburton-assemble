@@ -1,0 +1,4 @@
+.compass
+node_modules
+app/assemble/data/*
+www

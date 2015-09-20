@@ -51,7 +51,7 @@ grunt.initConfig({
         },
         dev: {
         	options: {
-        		outputStyle: 'compact'
+        		outputStyle: 'compressed'
         	},
             files: {
                 '<%= dirs.assets %>css/styles.css': '<%= dirs.scss %>styles.scss'
